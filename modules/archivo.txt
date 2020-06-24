@@ -1,0 +1,3 @@
+hola, Bienvenido a este ejemplo
+
+Este es un archivo simple y nada más.
